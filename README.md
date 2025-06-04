@@ -1,3 +1,4 @@
+
 # -Customer-Churn-Prediction-Telco-Customer-Churn-Analysis-
 
 
@@ -36,6 +37,27 @@ Results :
 1.Best Model: Random Forest Classifier
 2.Test Accuracy: ~79%
 3.ROC-AUC: 0.83
+
+📊 Visualizations
+1. Churn Distribution Pie Chart
+This chart shows the percentage of customers who churned versus those who did not.
+It helps visualize class imbalance in the dataset.
+![Churn Distribution Pie Chart](https://github.com/user-attachments/assets/12d80dc9-3810-41e1-a033-1cb 
+
+2. Confusion Matrix
+The confusion matrix heatmap displays the number of correct and incorrect predictions for both churned and non-churned customers.
+It helps assess the model’s classification performance.
+![Confusion Matrix](https://github.com/user-attachments/assets/4b693e6d-1593-4e0f-9130-904e 
+
+3. ROC Curve
+The ROC (Receiver Operating Characteristic) curve illustrates the trade-off between the true positive rate and false positive rate at various thresholds.
+The area under the curve (AUC) quantifies the model's ability to distinguish between classes.
+![ROC Curve](https://github.com/user-attachments/assets/fb5fa086-3ce3-445f-9d1b-3b2070b
+
+4. Feature Importance
+This bar plot ranks the top features that contribute most to the churn prediction, as determined by the Random Forest model.
+It provides insight into which customer attributes are most influential.
+![Feature Importance](https://github.com/user-attachments/assets/fc09b493-320b-4516-b03c-0f16169d 
 
 💡 Business Insights
 1.Identified key drivers of churn such as contract type, tenure, and monthly charges.
