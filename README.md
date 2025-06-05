@@ -39,14 +39,11 @@ Results :
 3.ROC-AUC: 0.83
 
 📊 Visualizations
-Churn Distribution
-![Churn Pie Chart](C:\Users\hp\Downloads\Figure_1)
+![Figure_1](https://github.com/user-attachments/assets/9f66544e-dbc5-4c22-bce0-7aecd70aa471)
+![Figure_2](https://github.com/user-attachments/assets/be93ea4b-5901-45a5-af7d-4f022df8be5e)
+![Figure_3](https://github.com/user-attachments/assets/d068cd48-eac4-4b47-971d-fc3e8dd7ce4b)
+![Figure_4](https://github.com/user-attachments/assets/c4f16761-61c2-4ced-9cb8-d08da0c51d84)
 
-![Confusion Matrix](C:\Users\hp\Downloads\Figure_2)
-
-![ROC Curve](C:\Users\hp\Downloads\Figure_3)
-
-![Feature Importance](C:\Users\hp\Downloads\Figure_4)
 
 💡 Business Insights
 1.Identified key drivers of churn such as contract type, tenure, and monthly charges.
