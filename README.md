@@ -39,10 +39,11 @@ Results :
 3.ROC-AUC: 0.83
 
 📊 Visualizations
-![Figure_1](https://github.com/user-attachments/assets/9f66544e-dbc5-4c22-bce0-7aecd70aa471)
-![Figure_2](https://github.com/user-attachments/assets/be93ea4b-5901-45a5-af7d-4f022df8be5e)
-![Figure_3](https://github.com/user-attachments/assets/d068cd48-eac4-4b47-971d-fc3e8dd7ce4b)
-![Figure_4](https://github.com/user-attachments/assets/c4f16761-61c2-4ced-9cb8-d08da0c51d84)
+
+![Pie Chart](https://github.com/user-attachments/assets/9f66544e-dbc5-4c22-bce0-7aecd70aa471)
+![Confusion Matrix](https://github.com/user-attachments/assets/be93ea4b-5901-45a5-af7d-4f022df8be5e)
+![ROC CURVE](https://github.com/user-attachments/assets/d068cd48-eac4-4b47-971d-fc3e8dd7ce4b)
+![Feature Importance](https://github.com/user-attachments/assets/c4f16761-61c2-4ced-9cb8-d08da0c51d84)
 
 
 💡 Business Insights
