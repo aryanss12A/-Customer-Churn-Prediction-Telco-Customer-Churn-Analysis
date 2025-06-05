@@ -38,6 +38,15 @@ Results :
 2.Test Accuracy: ~79%
 3.ROC-AUC: 0.83
 
+📊 Visualizations
+Churn Distribution
+![Churn Pie Chart](C:\Users\hp\Downloads\Figure_1)
+
+![Confusion Matrix](C:\Users\hp\Downloads\Figure_2)
+
+![ROC Curve](C:\Users\hp\Downloads\Figure_3)
+
+![Feature Importance](C:\Users\hp\Downloads\Figure_4)
 
 💡 Business Insights
 1.Identified key drivers of churn such as contract type, tenure, and monthly charges.
